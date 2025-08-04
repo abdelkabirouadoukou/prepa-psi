@@ -1,4 +1,4 @@
-# 🎓 MPSI Mathematics Functions
+# 🎓 MP Mathematics Functions
 
 Mathematical functions for MPSI CPGE students, implemented in Python.
 
