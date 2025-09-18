@@ -8,4 +8,4 @@ This repository features Python implementations of mathematical functions and al
 
 ---
 
-*By Abdelkabir*
+*By Abdelkabir - Ibn Taimiya CPGE* 🇲🇦
